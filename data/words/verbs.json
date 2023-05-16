@@ -1414,6 +1414,10 @@
             "past": "liked"
         },
         {
+            "present": "limit",
+            "past": "limited"
+        },
+        {
             "present": "list",
             "past": "listed"
         },
@@ -1946,6 +1950,10 @@
             "past": "recorded"
         },
         {
+            "present": "recreate",
+            "past": "recreated"
+        },
+        {
             "present": "rebuild",
             "past": "rebuilt"
         },
@@ -2100,6 +2108,10 @@
         {
             "present": "retrieve",
             "past": "retrieved"
+        },
+        {
+            "present": "retry",
+            "past": "retried"
         },
         {
             "present": "return",
